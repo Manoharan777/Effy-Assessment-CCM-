@@ -9,12 +9,6 @@ const port = 5000
 
 
 //Creating a DB connection
-// const db = mysql.createConnection({
-//   host: "localhost",
-//   user: "root",
-//   password: "root",
-//   database: "ems",
-// });
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
